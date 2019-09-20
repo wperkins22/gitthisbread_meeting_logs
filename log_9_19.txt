@@ -1,0 +1,9 @@
+09/19/2019 6-8 PM
+
+In this meeting, we completed all requirements for Project Milestone 1.
+Our application was named Git This Bread.
+We described our application and came up with a vision statement.
+The 3 required repositories were created and shared with the team.
+We decided on a development method.
+We discussed and recorded an architecture plan.
+We solidifyed our meeting plan.
