@@ -1,0 +1,11 @@
+09/26/2019 6-8PM
+
+In this meeting, we discussed if anyone wanted to make changes to Project Milestone 1.
+We discussed using SQL for the back-end.
+We began dividing the work for the project. So far:
+Back end - Connor and Wyatt
+Front end - Hudson (In Ji and Max)
+Middle layer - Phil
+In Ji and Max will fill front end for now, subject to change when workload increases.
+Project Milestone 1 was pushed to GitHub.
+Project Milestone git repository was shared to canvas.
