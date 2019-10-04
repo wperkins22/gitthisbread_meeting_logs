@@ -1,0 +1,6 @@
+10/03/2019 6-8PM
+
+In this meeting, we started planning our features.
+We also started creating a to-do list.
+We created a spreadsheet containing the data that will need to be stored in a database.
+We prepared to complete the requirements for Project Milestone 2.
