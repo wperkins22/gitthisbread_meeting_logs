@@ -1,0 +1,8 @@
+10/10/2019 6-8PM
+
+In this meeting, we worked on completing the requirements for Project Milestone 2.
+We created a Functional and Non-Functional features list.
+Features lists contain feature names and short descriptions.
+We discussed and decided to use User Stories as project requirements since we are using the Agile model.
+Each team member decided on a feature to write a User Story for.
+We begun working on User Stories for the 6 features we chose.
