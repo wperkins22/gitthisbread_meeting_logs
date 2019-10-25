@@ -1,0 +1,9 @@
+10/24/2019 6-8PM
+
+In this meeting we made sure all team members were clear on which libraries, management systems, and environments we are using on the project.
+React JavaScript library for the front-end.
+Node.js for the middle layer.
+PostgreSQL for the back-end.
+AWS as host.
+We discussed the requirements for Project Milestone 3 and decided on the database as one of the demo features.
+The other demo feature/features are to be decided.
