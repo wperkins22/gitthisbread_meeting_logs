@@ -1,0 +1,12 @@
+11/7/2019 6-8PM
+
+In this meeting, we discussed the requirements for project milestone 4. 
+We worked on each requirement based on which part of the project each of us is responsible for. 
+We revised our list of features, listed our completed features, issues faced during development, and TA suggestions.
+We created a Draw.io for our architecture diagram.
+We created a wireframe for our front end design.
+We created a ERD model for our database design.
+We did not create any model for web service design since we don't plan on using any APIs.
+We added all requirements to a Project Milestone 4 document.
+We pushed our Project Milestone 4 document to our github repository, and submitted it's link on canvas.
+
